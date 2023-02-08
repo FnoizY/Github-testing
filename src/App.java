@@ -3,7 +3,7 @@ public class App {
         System.out.println("Hello, World!");
         System.out.println("new change");
         app2 n = new app2();
-        n.name();
+        n.age();
     }
 
 }

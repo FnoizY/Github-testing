@@ -1,5 +1,5 @@
 public class app2 {
-public String name() {
-    return "Fares bahamdan";
+public int age() {
+    return 18;
 }
 }
